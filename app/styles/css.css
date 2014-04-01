@@ -1,0 +1,17 @@
+body {
+	margin: 0;
+	padding: 0;
+	font-family: Arial;
+	font-size: 12px;
+}
+
+.div {
+	box-sizing: border-box;
+	border: 1px solid red;
+	padding: 5px;
+	width: 100px;
+}
+
+.unused {
+	width: 100%;
+}
